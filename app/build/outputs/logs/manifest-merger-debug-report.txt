@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\b1eedb549a6624663ea1553fc48fcb67\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\20d11105ff10bf09c86f19f6d7a1c650\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7b5c19b1271ae82fad5e20c92c0d7170\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7645428990851f0e9eff9249b01366f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f1fff9794966dcb9421db1c20da16f16\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\10e740a49f0cce5c8a7fd43b8c372ade\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7d22e13d4e17accb6f452ef699f88904\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6cb69b2cc3f64064d6ccf691df047410\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6921982a7f2e5257e6b08e9aed2fb83b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1d28755cea4e78c1e293507f2a271572\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6e82606831e6a2b8d03aae8cb1fd4f2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\4dc97777fc77ff85c7d4f1f34fdb0487\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\87a52623c1a5c1611d4e4d234159844a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e55c83148eec7538094c5fe20308bc86\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\d344e7cb945bc9ed399d7f948c935464\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\08294f6ef929fd3fce672d31fc4ecfa9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\53ad33ef03a16c1a15183d72a0f43388\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\468a6f4a9fd010f5af02b67917ee2b22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\ab79cda4ca2a0790ee864efe5f21f2c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\584260e160f2ad6cd00a3408dd2ceda8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\c293327fe0d8d484532aca311e739b0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8e2830c7d4bedca736671bc4b2447fe8\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1bd5b16dbd223a4733a9a1470b282064\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\86ece335faaa6d300bcab53e6cc90a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e82a998035e42cc915307f96040f1109\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7075d920db1ffc2ab944b91ef1647643\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\94fc14a4b1553deb6df37c546aeca46c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1cdbc86fbc328b758dfefb0932b477f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f700e955ccee6268fb12285dc61302e8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\54e117832f19ce25be41333edcd354e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8450ce43486be9610159255a4abf2a30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\3da804a5972a2e1501d449011c8eb407\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\20d11105ff10bf09c86f19f6d7a1c650\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\20d11105ff10bf09c86f19f6d7a1c650\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8e2830c7d4bedca736671bc4b2447fe8\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8e2830c7d4bedca736671bc4b2447fe8\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.fut.Principal.CadastContrat
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:12:19-58
+activity#com.example.fut.Principal.PrincipalCont
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:13:19-58
+activity#com.example.fut.Principal.Inicio1
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:14:19-52
+activity#com.example.fut.Principal.Cadast_Boleiro
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:15:9-62
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:15:19-59
+activity#com.example.fut.Principal.TelaCadrast
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:16:19-56
+activity#com.example.fut.Principal.MainActivity
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:17:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\b1eedb549a6624663ea1553fc48fcb67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\b1eedb549a6624663ea1553fc48fcb67\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\20d11105ff10bf09c86f19f6d7a1c650\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\20d11105ff10bf09c86f19f6d7a1c650\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7b5c19b1271ae82fad5e20c92c0d7170\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7b5c19b1271ae82fad5e20c92c0d7170\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7645428990851f0e9eff9249b01366f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7645428990851f0e9eff9249b01366f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f1fff9794966dcb9421db1c20da16f16\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f1fff9794966dcb9421db1c20da16f16\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\10e740a49f0cce5c8a7fd43b8c372ade\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\10e740a49f0cce5c8a7fd43b8c372ade\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7d22e13d4e17accb6f452ef699f88904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7d22e13d4e17accb6f452ef699f88904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6cb69b2cc3f64064d6ccf691df047410\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6cb69b2cc3f64064d6ccf691df047410\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6921982a7f2e5257e6b08e9aed2fb83b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6921982a7f2e5257e6b08e9aed2fb83b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1d28755cea4e78c1e293507f2a271572\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1d28755cea4e78c1e293507f2a271572\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6e82606831e6a2b8d03aae8cb1fd4f2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\6e82606831e6a2b8d03aae8cb1fd4f2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\4dc97777fc77ff85c7d4f1f34fdb0487\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\4dc97777fc77ff85c7d4f1f34fdb0487\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\87a52623c1a5c1611d4e4d234159844a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\87a52623c1a5c1611d4e4d234159844a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e55c83148eec7538094c5fe20308bc86\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e55c83148eec7538094c5fe20308bc86\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\d344e7cb945bc9ed399d7f948c935464\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\d344e7cb945bc9ed399d7f948c935464\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\08294f6ef929fd3fce672d31fc4ecfa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\08294f6ef929fd3fce672d31fc4ecfa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\53ad33ef03a16c1a15183d72a0f43388\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\53ad33ef03a16c1a15183d72a0f43388\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\468a6f4a9fd010f5af02b67917ee2b22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\468a6f4a9fd010f5af02b67917ee2b22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\ab79cda4ca2a0790ee864efe5f21f2c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\ab79cda4ca2a0790ee864efe5f21f2c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\584260e160f2ad6cd00a3408dd2ceda8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\584260e160f2ad6cd00a3408dd2ceda8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1a20b4daf341cddc5469f480868118b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\c293327fe0d8d484532aca311e739b0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\c293327fe0d8d484532aca311e739b0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8e2830c7d4bedca736671bc4b2447fe8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8e2830c7d4bedca736671bc4b2447fe8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1bd5b16dbd223a4733a9a1470b282064\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1bd5b16dbd223a4733a9a1470b282064\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\86ece335faaa6d300bcab53e6cc90a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\86ece335faaa6d300bcab53e6cc90a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e82a998035e42cc915307f96040f1109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\e82a998035e42cc915307f96040f1109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7075d920db1ffc2ab944b91ef1647643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\7075d920db1ffc2ab944b91ef1647643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\94fc14a4b1553deb6df37c546aeca46c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\94fc14a4b1553deb6df37c546aeca46c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1cdbc86fbc328b758dfefb0932b477f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\1cdbc86fbc328b758dfefb0932b477f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f700e955ccee6268fb12285dc61302e8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\f700e955ccee6268fb12285dc61302e8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\54e117832f19ce25be41333edcd354e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\54e117832f19ce25be41333edcd354e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8450ce43486be9610159255a4abf2a30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\8450ce43486be9610159255a4abf2a30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\3da804a5972a2e1501d449011c8eb407\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ALUNO.LAB0110\.gradle\caches\transforms-2\files-2.1\3da804a5972a2e1501d449011c8eb407\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALUNO.LAB0110\Downloads\pi-4-master\app\src\main\AndroidManifest.xml
